@@ -15,7 +15,7 @@ Barta is a unique messaging platform that allows users to send and receive anony
 ### Prerequisites
 
 - Node.js (v16 or higher)
-- npm or yarn
+- npm or yarn or pnpm
 
 ### Installation
 
